@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My_app_1</string>
+    <string name="app_name">My primera práctica UI</string>
+    <string name="lblTitulo">TextView</string>
+    <string name="lblTitulo">TextView</string>
+    <string name="pr_ctica_1_android">Práctica 1 Android</string>
+    <string name="nombre">Nombre:</string>
+    <string name="textview">TextView</string>
 </resources>
